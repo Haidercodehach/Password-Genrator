@@ -1,5 +1,5 @@
 # Password Genrator
-It's a rendom password base of four figer rule 
+It's a rendom password base of three figer rule 
 ## Four figer rule 
 It's a rule that i use to remenber thing 
 it is simply remenber thing with it's core value 
