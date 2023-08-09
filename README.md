@@ -7,3 +7,6 @@ password is diffcuilt to remenber so remenber it's core
 value like if password is 99)xX)X user have only
 remenber 9x) if user remenber this three value 
 he or she can remenber it's password.
+
+
+
