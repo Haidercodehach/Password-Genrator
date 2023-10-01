@@ -95,8 +95,6 @@ namespace Password_Genrator
                     }
                    
                 }
-              
-               
             }
             
         }
