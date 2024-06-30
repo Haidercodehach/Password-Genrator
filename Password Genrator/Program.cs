@@ -19,8 +19,7 @@ namespace Password_Genrator
         {
             StringBuilder password = new StringBuilder();
 
-            // Generate at least one character from each character set
-            password.Append(GetRandomChar(LowercaseChars));
+    password.Append(GetRandomChar(LowercaseChars));
             password.Append(GetRandomChar(UppercaseChars));
             password.Append(GetRandomChar(NumericChars));
             password.Append(GetRandomChar(SpecialChars));
